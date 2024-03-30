@@ -16,9 +16,11 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=kuntuganova&style=flat-square&color=blue" alt=""/></div>
 
 <h1 align="center">
-  hey there
+  Hi, I'm Elya 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+### :woman_technologist: About Me :
 <!--
 **kuntuganova/kuntuganova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
