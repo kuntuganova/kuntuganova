@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNpcGZtZ2N0YXJyMDZ6cTd6dTB4ZHJxdTA5cWp2MDU1dmgyem5vNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
@@ -13,6 +12,13 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=kuntuganova&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **kuntuganova/kuntuganova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
