@@ -20,7 +20,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
+
+I'm a Node.js Developer 
+
+- :telescope: I’ve transitioned to a Software Engineer from Project management.
+
+- :seedling: Exploring DevOps.
+
+- :zap: In my spare time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kuntuganova-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 <!--
 **kuntuganova/kuntuganova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
